@@ -1,0 +1,26 @@
+body {
+  background-color: #30214d;
+}
+
+.titulo {
+  text-align: center;
+  color: white;
+}
+
+.apresentacao {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+img {
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
